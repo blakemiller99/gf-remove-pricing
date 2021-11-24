@@ -1,4 +1,5 @@
 // If your website does not use Pricing, Products, etc. in any way, these snippets will remove the fields and groupings.
+// Add this code to your custom functions.php or your favorite snippet plugin.
 
 
 // Remove Pricing Fields from the Editor
